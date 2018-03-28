@@ -3,3 +3,14 @@
 ################################################################################
 
 *.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+/MailTrackDesktop/bin/Debug
+/MailTrackDesktop/obj/Debug
+/MailTrackREST/obj
+/MailTrackWeb/bin
+/MailTrackREST/bin/Debug/netcoreapp2.0
+/.vs/config
+/MailTrackWeb/obj/Debug
