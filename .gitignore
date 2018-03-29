@@ -17,3 +17,5 @@
 /MailTrackWebApp/bin
 /packages
 /.vs
+/Mail.Common
+/MailTrackWeb
