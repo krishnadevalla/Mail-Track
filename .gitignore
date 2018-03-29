@@ -3,3 +3,19 @@
 ################################################################################
 
 *.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+/MailTrackDesktop/bin
+/MailTrackDesktop/obj
+/MailTrackREST/obj
+/MailTrackREST/bin/
+/Mail.Common.Net/obj
+/Mail.Common.Net/bin
+/MailTrackWebApp/obj
+/MailTrackWebApp/bin
+/packages
+/.vs
+/Mail.Common
+/MailTrackWeb
